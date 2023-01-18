@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es el segundo repertorio de prueba de Henry
+Este proyecto es el segundo intento de crear un repositorio y clonarlo
